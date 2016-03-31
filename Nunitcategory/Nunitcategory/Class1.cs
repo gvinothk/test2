@@ -30,7 +30,7 @@ namespace Nunitcategory
 
             //dr.Navigate().GoToUrl(url);
             Console.WriteLine(url);
-            Console.WriteLine("test");
+            Console.WriteLine("test11");
             Console.ReadLine();
             
         }
